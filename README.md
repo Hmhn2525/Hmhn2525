@@ -1,4 +1,5 @@
-# Hola, soy Héctor 👋
+Héctor Manuel Hernández Narváez
+Data Analyst | SQL | Power BI | Automation | IT Infrastructure
 
 Profesional de tecnologías de la información enfocado en análisis de datos,
 automatización de procesos, infraestructura tecnológica y desarrollo de
