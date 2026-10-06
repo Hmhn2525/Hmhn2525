@@ -40,9 +40,9 @@ Los tres proyectos principales demuestran el ciclo completo: desde la captura en
 ### 2. [FuelTrack](https://github.com/Hmhn2525/fueltrack)
 *Control y automatización del flujo de combustible: solicitud, aprobación y despacho en campo.*
 - **Enfoque:** Eliminación de inconsistencias en el suministro de combustible mediante un flujo coordinado en tres etapas.
-- **Aportación clave:** Validación administrativa con bloqueo concurrente en servidor; captura móvil con registro de evidencias; claves de idempotencia que garantizan 0 L adicionales ante reintentos de red; y cola local en IndexedDB para resguardar despachos sin cobertura celular.
+- **Aportación clave:** Validación administrativa con bloqueo concurrente en servidor; captura móvil con registro de evidencias; diseño de claves de idempotencia para prevenir dobles despachos en reintentos; y cola local en IndexedDB para resguardar despachos sin cobertura celular.
 - **Tecnologías:** Google Apps Script, Google Sheets, Google Drive, JavaScript, IndexedDB, PWA.
-- **Evidencia:** 65 pruebas locales simuladas aprobadas (autorización, balance de saldos, fallos de almacenamiento e idempotencia).
+- **Evidencia:** 65 pruebas locales simuladas históricas aprobadas (autorización, balance de saldos, fallos y reintentos) y comprobación reproducible de consistencia aritmética en escenario sintético.
 
 ### 3. [Inventario Físico](https://github.com/Hmhn2525/inventario-fisico-portafolio)
 *Importación de existencias, captura de conteo físico trazable y conciliación por almacén.*
@@ -101,4 +101,4 @@ Para reflejar la especialidad en análisis de datos y automatización operativa,
 
 - **Correo electrónico:** [hhernandeznarvaez.1516@gmail.com](mailto:hhernandeznarvaez.1516@gmail.com)
 - **LinkedIn:** [linkedin.com/in/hector-manuel-hernández-narváez-b67933239](https://www.linkedin.com/in/hector-manuel-hernández-narváez-b67933239/)
-- **Portafolio web:** *Enlace pendiente de incorporación tras la publicación de la URL pública.*
+- **Portafolio web:** *Sitio web preparado y verificado localmente; alojamiento público pendiente de confirmar.*
