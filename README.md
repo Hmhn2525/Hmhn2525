@@ -101,4 +101,4 @@ Para reflejar la especialidad en análisis de datos y automatización operativa,
 
 - **Correo electrónico:** [hhernandeznarvaez.1516@gmail.com](mailto:hhernandeznarvaez.1516@gmail.com)
 - **LinkedIn:** [linkedin.com/in/hector-manuel-hernández-narváez-b67933239](https://www.linkedin.com/in/hector-manuel-hernández-narváez-b67933239/)
-- **Portafolio web:** *Sitio web preparado y verificado localmente; alojamiento público pendiente de confirmar.*
+- **Portafolio web:** [hmhn2525.github.io](https://hmhn2525.github.io/)
