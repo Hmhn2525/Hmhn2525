@@ -1,28 +1,30 @@
 # Héctor Manuel Hernández Narváez
 
-**Especialista en Análisis de Datos y Automatización de Procesos Operativos**  
-*Transformando flujos manuales en herramientas confiables, datos organizados e indicadores accionables.*
+**Líder de Implementación de IA, Análisis de Datos y Automatización de Procesos Operativos**  
+*Transformando flujos manuales en herramientas confiables, agentes gobernados, datos organizados e indicadores de productividad y ahorro.*
 
 ---
 
 ## Perfil profesional
 
-Profesional enfocado en la intersección entre el análisis de datos y la automatización de procesos operativos. Diseño y construyo soluciones prácticas que eliminan cuellos de botella en la operación: desde la captura estructurada en campo y la validación en tiempo real, hasta la consolidación de información, control de versiones y visualización analítica para la toma de decisiones.
+Ingeniero en Tecnologías de la Información (Titulado) enfocado en la intersección entre la **implementación de Inteligencia Artificial Generativa / Agentes de IA**, el **análisis de datos** y la **automatización de procesos operativos**. Identifico áreas de oportunidad en la operación para diseñar, ejecutar y monitorear soluciones prácticas que eliminan cuellos de botella: desde la captura estructurada en campo y la validación en tiempo real, hasta la consolidación analítica, el establecimiento de lineamientos de gobernanza y la capacitación de equipos internos.
 
-Enfoque técnico fundamentado en evidencia verificable, trazabilidad estricta y protección de datos operativos.
+Enfoque técnico fundamentado en evidencia verificable, evaluación de impacto (productividad, ahorro de costos y eficiencia), trazabilidad estricta y protección de datos corporativos.
 
 ---
 
 ## Competencias técnicas
 
-- **Análisis de datos & Business Intelligence:**  
-  SQL (consultas analíticas, agregaciones previas al cruce, resolución de grano), Google Sheets avanzado, Looker Studio, modelado relacional y dimensional, integración BigQuery (reportada).
-- **Automatización de procesos operativos:**  
-  Google Apps Script (enrutamiento de eventos, bloqueo concurrente con `LockService`, procesamiento por lotes), Google Forms, Google Drive, flujos automatizados de validación.
+- **Inteligencia Artificial Generativa & Agentes de IA:**  
+  Integración de Modelos de Lenguaje (LLMs: OpenAI/GPT, Claude, Gemini), diseño de flujos con Agentes de IA y Model Context Protocol (MCP), ingeniería de prompts avanzada, automatización de desarrollo y análisis documental asistido por IA.
+- **Gobernanza de IA, Trazabilidad & Alfabetización Digital:**  
+  Establecimiento de lineamientos y buenas prácticas de uso de IA, prevención de fuga de información y anonimización estricta, validación determinista de salidas (Python / Playwright), control de concurrencia e idempotencia transaccional, y programas de capacitación para adopción en equipos internos.
+- **Análisis de datos & Business Intelligence (KPIs y ROI):**  
+  SQL Server, PostgreSQL, SQLite (consultas analíticas, agregaciones previas al cruce, resolución de grano), Microsoft Excel avanzado / Power Query, Power BI, Looker Studio, modelado relacional y dimensional, integración BigQuery (reportada).
+- **Automatización de procesos y Ecosistemas Corporativos:**  
+  Python, PowerShell, Microsoft 365 & Power Platform (Power Automate, Power Apps, SharePoint, Teams, Entra ID), Google Apps Script (enrutamiento de eventos, bloqueo concurrente con `LockService`, procesamiento por lotes), Google Forms y Google Sheets avanzado.
 - **Desarrollo de herramientas internas:**  
-  Python (FastAPI, procesamiento de datos), React, TypeScript, Tailwind CSS, SQLite, PostgreSQL, persistencia offline con IndexedDB y arquitecturas PWA.
-- **Gobernanza del dato & Trazabilidad:**  
-  Control de concurrencia y versiones esperadas, transacciones idempotentes (prevención de duplicados en reintentos), anonimización estricta y auditoría de cambios.
+  Python (FastAPI), React, TypeScript, ASP.NET Core, Tailwind CSS, persistencia offline con IndexedDB y arquitecturas PWA.
 
 ---
 
